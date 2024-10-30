@@ -1,0 +1,10 @@
+#imagem{
+  width: 40vh;
+  height: 50vw;
+}
+
+.cartao{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
